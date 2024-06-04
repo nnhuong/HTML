@@ -1,0 +1,23 @@
+.first-class{
+    color: green;
+    border: 1px solid red ;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#secondId{
+    color: green;
+    border: 1px solid red ;
+    border-radius: 25px;
+    text-align: center;
+}
+#thirdId{
+    color: green;
+    border: 1px solid red;
+    border-radius: 25px;
+    text-align: center;
+}
+.pic{
+    width: 300px;
+    height: 300px;
+}
